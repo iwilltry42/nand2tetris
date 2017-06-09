@@ -153,4 +153,5 @@ fabric.properties
 ##### all .idea/*
 .idea/*
 */.idea/*
+*/.idea
 
